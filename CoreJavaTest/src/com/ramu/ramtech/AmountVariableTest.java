@@ -12,7 +12,7 @@ public class AmountVariableTest {
 		System.out.println("bg: "+bg);
 		
 		if (bg.compareTo(bg2)==0) {
-			System.out.println("printing test2...");
+			System.out.println("printing test cases...");
 		}
 			
 		
